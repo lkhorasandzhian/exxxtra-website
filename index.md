@@ -65,7 +65,7 @@ title: Welcome to our page!
 ### Other samples
 [The folder](https://github.com/MAILabs-Edu-2023/fp-compiler-lab-mosmetro/tree/main/examples), containing samples for each feature.
 
-## Credits
+## MosMetro Team
 
 | Name                 | Role in the project                                                           |
 | ---                  | ---                                                                           |
