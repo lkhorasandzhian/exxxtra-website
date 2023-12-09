@@ -1,5 +1,5 @@
 ---
-title: MosMetro Team presents
+title: MosMetro Team
 ---
 
 # eXXXtra - The New Programming Language
